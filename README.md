@@ -4,21 +4,20 @@
 
 <h3>🚀 Full-Stack Developer | .NET & Angular Specialist | Problem Solver</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Web+Developer;.NET+%7C+Node.js+%7C+Angular;Clean+Code+Advocate;Turning+Ideas+Into+Reality&font=Fira%20Code&center=true&width=650&height=50&color=8A2BE2&vCenter=true&size=20&pause=1000" />
-</p>
+<img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Web+Developer;.NET+%7C+Node.js+%7C+Angular;Clean+Code+Advocate;Turning+Ideas+Into+Reality&font=Fira%20Code&center=true&width=650&height=50&color=8A2BE2&vCenter=true&size=20&pause=1000" />
 
 </div>
 
----
+<br>
 
-## 👩‍💻 About Me
+<h2>👩‍💻 About Me</h2>
 
-<img align="right" width="300" src="https://media.tenor.com/yhaa2jvPoygAAAAj/ai-grok.gif" />
+<img align="right" width="280" src="https://media.tenor.com/yhaa2jvPoygAAAAj/ai-grok.gif" />
 
 I'm a passionate Full-Stack Developer with strong experience in both .NET and JavaScript ecosystems.
 
-💡 What I Bring:
+💡 **What I Bring:**
+
 - 🎓 ITI Professional Web Development Graduate  
 - 🏗️ Strong foundation in OOP, SOLID & Design Patterns  
 - 🔥 Real-world full-stack project experience  
@@ -26,12 +25,11 @@ I'm a passionate Full-Stack Developer with strong experience in both .NET and Ja
 - 🌱 Continuous learner focused on performance & clean architecture  
 
 I enjoy transforming complex problems into elegant, production-ready solutions.
+<br>
 
----
+<h2>🛠️ Technical Arsenal</h2>
 
-# 🛠️ Technical Arsenal
-
-## ⚙️ Backend Development
+<h3>⚙️ Backend Development</h3>
 <p>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
@@ -42,9 +40,7 @@ I enjoy transforming complex problems into elegant, production-ready solutions.
   <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
 </p>
 
----
-
-## 🌐 Frontend Development
+<h3>🌐 Frontend Development</h3>
 <p>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -54,69 +50,52 @@ I enjoy transforming complex problems into elegant, production-ready solutions.
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
----
-
-## 🗃️ Databases & BI
+<h3>🗃️ Databases & BI</h3>
 <p>
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  
 </p>
 
----
-
-## 🛠️ DevOps & Tools
+<h3>🛠️ DevOps & Tools</h3>
 <p>
-  <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
-  
----
-## 📐 Methodologies & Practices
+
+<h3>📐 Methodologies & Practices</h3>
 <p>
-  <img src="https://img.shields.io/badge/Agile-009688?style=for-the-badge&logo=scrumalliance&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white" />
-  <img src="https://img.shields.io/badge/OOP-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
-  <img src="https://img.shields.io/badge/Design_Patterns-FF9800?style=for-the-badge&logo=codeforces&logoColor=white" />
-  <img src="https://img.shields.io/badge/DevOps-0A66C2?style=for-the-badge&logo=azuredevops&logoColor=white" />
-  <img src="https://img.shields.io/badge/Clean_Architecture-8E24AA?style=for-the-badge&logo=architecture&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agile-009688?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OOP-512BD4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Design_Patterns-FF9800?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DevOps-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Clean_Architecture-8E24AA?style=for-the-badge" />
 </p>
-  
----
 
-<h1>🌟 Selected Projects</h1>
+<br>
 
-<hr>
+<h2>🌟 Selected Projects</h2>
 
 <h3>🛵 Vroom Delivery Manager</h3>
 <p><strong>Business Management & Smart Delivery System</strong></p>
 
-<p>
-A scalable B2B delivery management platform designed to optimize logistics operations 
-and enhance delivery efficiency.
-</p>
-
-<p><strong>Key Features:</strong></p>
 <ul>
   <li>📦 Streamlined order management & full delivery lifecycle tracking</li>
   <li>🤖 Automated rider assignment system</li>
   <li>📍 Real-time location tracking using SignalR</li>
-  <li>🚀 Optimized routing algorithms for improved delivery performance</li>
-  <li>📊 Analytics dashboard for operational insights</li>
+  <li>🚀 Optimized routing algorithms</li>
+  <li>📊 Analytics dashboard for business insights</li>
 </ul>
 
-<p><strong>Technologies:</strong><br>
-ASP.NET Core • Angular • SignalR • Entity Framework Core • SQL Server
-</p>
+<p><strong>Technologies:</strong> ASP.NET Core • Angular • SignalR • Entity Framework Core • SQL Server</p>
 
----
+<br>
 
-# 📫 Connect With Me
+<h2 align="center">📫 Connect With Me</h2>
 
 <p align="center">
   <a href="mailto:ayasalah.dev45@gmail.com">
@@ -130,10 +109,6 @@ ASP.NET Core • Angular • SignalR • Entity Framework Core • SQL Server
   </a>
 </p>
 
----
-
 <div align="center">
-
 ⭐ Always Learning • Always Building • Always Improving
-
 </div>
